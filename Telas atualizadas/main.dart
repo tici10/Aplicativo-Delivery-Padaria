@@ -11,7 +11,8 @@ class MyApp extends StatelessWidget {
   // This widget is the root of your application.
   @override
   Widget build(BuildContext context) {
-    return MaterialApp(theme: ThemeData(
+    return MaterialApp(
+      theme: ThemeData(
         primarySwatch: Colors.brown,
       ),
       home: const Telalogin(),
