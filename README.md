@@ -2,8 +2,8 @@
 
 
 > ### Sobre o projeto 
- Esse sistema tem como objetivo facilitar e proporcionar ao usuário uma experiência de não precisar sair de casa para consumir<br>
- café da manhã completo.
+ Esse sistema tem como objetivo facilitar e proporcionar ao usuário uma experiência de não precisar<br>
+ sair de casa para consumir um café da manhã completo.
 
 <h2>Funcionalidades</h2>
 
