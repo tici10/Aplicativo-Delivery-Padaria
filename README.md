@@ -13,7 +13,8 @@
 +  Login: Após a criação do cadastro, o usuário deve  informar o e-mail e a senha já criada no campo de cadastro e confirmar a ação de login.
 
 +  Comprar produto: Após o login, o usuário pode visualizar e realizar a compra do produto selecionado.
-=======
 
+<h2>Link repositório do Design System utilizado no projeto</h2>
 
+https://github.com/tici10/Design-System-Delivery-Padaria.git
 
